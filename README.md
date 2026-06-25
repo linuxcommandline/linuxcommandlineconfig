@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @BarleyFoxDroplettReindeerTheDev
+- 👋 Hi.
 - 👀 I’m interested in coding, video games, and drawing!
-- 🌱 I’m currently learning robotics stuff.
-- 💞️ I’m looking to collaborate on idk. I guess ask me.
-- 📫 How to reach me: DM me on Discord. My username is: droplett_the_reindeer (my display name is Barley The Fox though).
+- 🌱 I’m currently going to college for cybersecurity.
+- 💞️ I’m looking to collaborate on stuff.
 - 😄 Pronouns: he/they/it
 - ⚡ Fun fact: You are reading the Readme of someone who doesn't have a fun fact right now
 
